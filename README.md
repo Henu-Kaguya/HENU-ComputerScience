@@ -23,10 +23,6 @@
 
 ## 课程导航
 
-### 专业总览 (Overview)
-
-- 专业总览: [Henu-Kaguya](https://github.com/Henu-Kaguya/Henu-Kaguya)
-
 ### 第一学年 第一学期（大一上）
 
 - 计算机科学导论: [Introduction-to-Computer-Science](https://github.com/Henu-Kaguya/Introduction-to-Computer-Science)
@@ -71,10 +67,6 @@
 - 计算机伦理学: [Computer-Ethics](https://github.com/Henu-Kaguya/Computer-Ethics)
 - 计算机图形学: [Computer-Graphics](https://github.com/Henu-Kaguya/Computer-Graphics)
 - 专业实践与小学期实训: [CS-Small-Term](https://github.com/Henu-Kaguya/CS-Small-Term)
-
-### 语言认证 / 专项备考
-
-- TOEFL 托福备考: [TOEFL](https://github.com/Sonder9999/TOEFL)
 
 ---
 
